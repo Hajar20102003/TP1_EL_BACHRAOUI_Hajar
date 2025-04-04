@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "Chaussure",
+      "price": 50
+    }
+  ],
+  "orders": [
+    {
+      "product": "Chaussure",
+      "quantity": 2
+    }
+  ]
+}
